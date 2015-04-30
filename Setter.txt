@@ -1,0 +1,22 @@
+20
+   1    0    0     Porto 
+   2    0    0     Old Moll
+   3    1    2     Dash 1st
+   4    1    2     Belle 1st
+   5    3    4     Moll 2nd
+   6    3    4     Pilot
+   7    3    4     Cora 1st
+   8    3    5     Peg
+   9    6    5     Rock
+  10    6    5     Regent
+  11    6    5     Jet 1st
+  12    8    9     Rock (a)
+  13   10   11     Cora (Blair's)
+  14   10   11     Rock 2nd
+  15   12    5     Fred 1st 
+  16    7   15     Cora 2nd
+  17   13   14     Sting
+  18   13   14     Belle 2nd
+  19   16   17     Dash 2nd
+  20   15   18     Moll 3rd
+  

@@ -1,0 +1,23 @@
+22                        
+   1    0    0     X       
+   2    0    0     Y
+   3    0    0     Juan
+   4    0    0     Leon
+   5    0    0     Pedro
+   6    0    0     Caciana
+   7    1    2     Petrona
+   8    1    2     Francisco
+   9    5    7     Juana
+  10    3    9     Paiperon
+  11    4    9     Mariana
+  12    5    7     Beltran
+  13    5    7     Carmen
+  14    8    6     Constantino
+  15   12   10     Leonor 
+  16   12   11     Andres
+  17   14   13     Teresa
+  18   14   13     Catoya
+  19   15   17     Julio
+  20   16   18     Mencha
+  21   19   20     hijos de Julio y Mencha
+  22   19   20     hijos de Julio y Mencha

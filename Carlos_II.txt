@@ -1,0 +1,30 @@
+29
+   1    0    0     Felipe de Castilla  
+   2    0    0     Juana de Castilla
+   3    0    0     Isabel de Portugal
+   4    1    2     Carlos V
+   5    1    2     Fernando I
+   6    0    0     Anna de Bohemia y Hungría
+   7    1    2     Isabel de Burgundy
+   8    0    0     Cristian II de Dinamarca
+   9    3    4     Felipe II
+  10    3    4     María de España
+  11    5    6     Maximiliano II
+  12    5    6     Carlos II de Austria
+  13    5    6     Ana de Habsburgo
+  14    0    0     Alberto V de Bavaria
+  15    8    7     Cristina de Dinamarca 
+  16    0    0     francisco I de Lorena
+  17   11   10     Ana de Austria
+  18   14   13     María Ana de Bavaria
+  19   14   13     Guillermo V de Bavaria
+  20   16   15     Renata de Lorena
+  21    9   17     Felipe III
+  22   12   18     Margarita de Austria
+  23   12   18     Fernando II
+  24   19   20     María Anna de Bavaria
+  25   21   22     Felipe IV
+  26   21   22     María Ana de España
+  27   23   24     Fernando III
+  28   27   26     Mariana de Austria
+  29   25   28     Carlos II

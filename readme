@@ -1,0 +1,41 @@
+Data files
+==========
+
+Simple.txt     -->  sire, dam and two sibs
+setter.txt     -->  Famous english setter pedigree by Edward Laverack
+mencha.txt     -->  Julio and Mencha's pedigree (as described in the manuscript)
+Carlos_II.txt  -->  Carlos II "el hechizado" genealogy (endogamic spanish king) 
+
+Source files
+============
+
+
+1) Gene dropping
+
+Calculate identities by using gene dropping (just for checking)
+
+Compile   :  > gfortran dropping.f90 -o dropping
+Usage     :  > dropping filename i1 i2  (i1 and i2 are the individuals to be processed)
+Example   :  > dropping mencha.txt 19 22
+
+2) Tabular method
+
+Calculate identities by using tabular methods (3D and 4D tables)
+
+Compile   :  > gfortran tabular.f90 -o tabular
+Usage     :  > tabular filename i1 i2  (i1 and i2 are the individuals to be processed)
+Example   :  > tabular mencha.txt 19 22
+
+The 15 identities are sorted as in Karigl's paper
+
+3) Recursive function
+
+Calculate identities by using recursive functions as described in the paper
+
+Compile   :  > gfortran recursive.f90 -o recursive
+Usage     :  > recursive filename i1 i2  (i1 and i2 are the individuals to be processed)
+Example   :  > recursive mencha.txt 19 22
+
+The 15 identities are sorted lexicographically
+
+
